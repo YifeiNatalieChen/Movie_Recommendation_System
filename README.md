@@ -1,6 +1,4 @@
-# Movie_Recommendation_System
-
-# IEOR Final Project: Hybrid Recommendation System on MovieLens Dataset
+# Hybrid Recommendation System on MovieLens Dataset
 
 There are mainly two files in this repository: 
 
